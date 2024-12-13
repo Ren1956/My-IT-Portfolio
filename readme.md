@@ -28,6 +28,9 @@ How to Access Webpage?
    - Extract the folder (if zipped).
    - Open the index.html file by double-clicking it or dragging it into your browser.
 
+   -heres access to my github portfolio
+   https://github.com/Ren1956/My-IT-Portfolio
+
 Navigation:
 
 1. To Navigate through this webpage first you are greeted with a homepage that houses my name and 5 menu bars:
