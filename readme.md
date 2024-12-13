@@ -23,6 +23,8 @@ Programs used to make this Webpage possible:
 -----
 
 How to Access Webpage?
+there are two methods
+
 -If shared via a folder:
    - Download the folder from the shared drive.
    - Extract the folder (if zipped).
@@ -30,6 +32,7 @@ How to Access Webpage?
 
    -heres access to my github portfolio
    https://github.com/Ren1956/My-IT-Portfolio
+   (if not working try the first method for guranteed access)
 
 Navigation:
 
